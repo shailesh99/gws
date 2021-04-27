@@ -8,6 +8,9 @@ You'll get the id of spreadsheet from it's URL
 For example if the url of the spreadsheet is 
 https://docs.google.com/spreadsheets/d/1yAibs4ck4eI3OUu50i33_fRly_za1YFwvtLtYOCuCBc/edit#gid=18683454
 the id is 1yAibs4ck4eI3OUu50i33_fRly_za1YFwvtLtYOCuCBc
+
+
+ref:https://alicekeeler.com/2019/10/10/bulk-removing-users-from-g-suite-admin/
 */
 
 function deleteUsers() {
